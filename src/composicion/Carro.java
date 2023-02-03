@@ -1,3 +1,5 @@
+package composicion;
+
 public class Carro {
     private Motor motor;
     private Llanta[] llantas;

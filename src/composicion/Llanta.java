@@ -1,3 +1,5 @@
+package composicion;
+
 public class Llanta {
     private int numeroRin;
     private String marca;
